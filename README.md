@@ -7,7 +7,7 @@ Project Roadmap:
 - [ ] Document how it works
 - [ ] Optimize the key word search to be more beneficial to the user
 - [ ] Create a UI for it
-- [ ] Test it
+- [ ] Test it all
 
 
 
