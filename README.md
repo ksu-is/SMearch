@@ -3,7 +3,7 @@ This Social Media Search Engine, or SMearch, key word searches through the disco
 Project Roadmap:
 
 - [x] Find related repository and evaluate it
-- [ ] Test repository
+- [x] Test repository
 - [ ] Document how it works
 - [ ] Optimize the key word search to be more beneficial to the user
 - [ ] Create a UI for it
