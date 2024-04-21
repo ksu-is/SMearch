@@ -1,7 +1,2 @@
-import tweepy
-
-# Twitter/X API credentials
-consumer_key = ''
-consumer_secret = ''
-access_token = ''
-access_token_secret = ''
+import requests
+from bs4 import BeautifulSoup
