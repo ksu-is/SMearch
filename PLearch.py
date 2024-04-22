@@ -1,3 +1,4 @@
+from flask import Flask, render_template, request, redirect, url_for
 import webbrowser
 
 def search_social_media(query, platform):
