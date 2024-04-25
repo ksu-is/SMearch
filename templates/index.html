@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Social Media</title>
+</head>
+<body>
+    <h1>Search Social Media</h1>
+    <form method="post" action="{{ url_for('index') }}">
+        <label for="platform">Enter the platform you'd like to search through:</label><br>
+        <input type="text" id="platform" name="platform" required><br>
+        <label for="query">Enter keywords:</label><br>
+        <input type="text" id="query" name="query" required><br>
+        <input type="submit" value="Search">
+    </form>
+</body>
+</html>
+
